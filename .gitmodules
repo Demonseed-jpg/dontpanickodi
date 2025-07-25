@@ -1,3 +1,6 @@
 [submodule "omega/plex-for-kodi"]
 	path = omega/plex-for-kodi
 	url = https://github.com/Demonseed-jpg/plex-for-kodi.git
+[submodule "omega/script.plexmod"]
+	path = omega/script.plexmod
+	url = https://github.com/Demonseed-jpg/plex-for-kodi.git
