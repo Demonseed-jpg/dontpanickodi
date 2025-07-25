@@ -1,0 +1,3 @@
+[submodule "omega/repository.dontpanic/plex-for-kodi"]
+	path = omega/repository.dontpanic/plex-for-kodi
+	url = https://github.com/Demonseed-jpg/plex-for-kodi.git
