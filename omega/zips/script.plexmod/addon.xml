@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="script.plexmod"
        name="Plex"
-       version="0.8.0-beta12.4.custom05"
+       version="0.8.0-beta12.4.custom06"
        provider-name="pannal, demonseed-jpg">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
