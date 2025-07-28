@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="repository.dontpanic-custom" name="Don't Panic Custom" version="1.0" provider-name="demonseed-jpg">
-    <extension point="xbmc.addon.repository" name="Don't Panic Kodi Repo">
+<addon id="repository.demonseed" name="Demonseed's Repo" version="1.0" provider-name="demonseed-jpg">
+    <extension point="xbmc.addon.repository" name="Demonseed's Repo">
         <dir minversion="18.0.0" maxversion="18.9.9">
             <info compressed="false">https://raw.githubusercontent.com/Demonseed-jpg/dontpanickodi/master/leia/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/Demonseed-jpg/dontpanickodi/master/leia/zips/addons.xml.md5</checksum>
@@ -24,7 +24,7 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>dontpanic</summary>
+        <summary>demonseed</summary>
         <description>Randomly reasonably stable hacked/improved/altered addons</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
