@@ -1,3 +1,25 @@
 [submodule "omega/script.plexmod"]
 	path = omega/script.plexmod
 	url = https://github.com/Demonseed-jpg/plex-for-kodi.git
+	branch = updater-changes
+[submodule "leia/repository.dontpanickodi-custom"]
+	path = leia/repository.dontpanickodi-custom
+	url = https://github.com/Demonseed-jpg/dontpanickodi.git
+[submodule "matrix/repository.dontpanickodi-custom"]
+	path = matrix/repository.dontpanickodi-custom
+	url = https://github.com/Demonseed-jpg/dontpanickodi.git
+[submodule "nexus/repository.dontpanickodi-custom"]
+	path = nexus/repository.dontpanickodi-custom
+	url = https://github.com/Demonseed-jpg/dontpanickodi.git
+[submodule "leia/script.plexmod"]
+	path = leia/script.plexmod
+	url = https://github.com/Demonseed-jpg/plex-for-kodi.git
+	branch = updater-changes
+[submodule "matrix/script.plexmod"]
+	path = matrix/script.plexmod
+	url = https://github.com/Demonseed-jpg/plex-for-kodi.git
+	branch = updater-changes
+[submodule "nexus/script.plexmod"]
+	path = nexus/script.plexmod
+	url = https://github.com/Demonseed-jpg/plex-for-kodi.git
+	branch = updater-changes
